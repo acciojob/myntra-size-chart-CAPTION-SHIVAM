@@ -1,15 +1,17 @@
 th{
-	right-padding:50px;
+	 padding-right:50px;
 	background-color:red;
 }
 .w{
-	right-padding:15px;
+/* 	padding-right:10px; */
 	background-color:darkred;
 }
 .c{
+/* 	padding-right:10px; */
 	background-color:darkorange;
 }
 .s{
+/* 	padding-right:10px; */
 	background-color:darkgray;
 }
 /* Your CSS Code here. */
